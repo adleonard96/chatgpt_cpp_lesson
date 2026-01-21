@@ -1,0 +1,3 @@
+/home/alex/chatgpt_cpp_lesson/lesson_1/build/CMakeFiles/cpp_hero.dir
+/home/alex/chatgpt_cpp_lesson/lesson_1/build/CMakeFiles/edit_cache.dir
+/home/alex/chatgpt_cpp_lesson/lesson_1/build/CMakeFiles/rebuild_cache.dir
